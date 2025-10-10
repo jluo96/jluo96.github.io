@@ -12,22 +12,32 @@ I'm a PhD candidate at [University of California, Santa Cruz](https://www.ucsc.e
 
 Research interests
 ======
-3D Computer Vision, Biometrics, Neural Rendering, Generative AI
+Generative 3D/4D for riggable avatars —  text/vision-conditioned 3D/4D generation, semantic meaningful 4D deformation, feed forward deformable Gaussian splatting, and real-time retargeting for animals & humans.
+
 
 Current Research
 ======
 
-* **3D Gaussian Splatting** <br /> 
+Feed forward animal head blendshapes via human conditioned registration and real-time retargeting
 
-* **3D Human Reconstruction** <br /> 
+3D human reconstruction with multiple in-the-wild images
 
 Selected Publications
 ======
 
 **SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface**  <br /> 
+**Jiahao Luo**, Chaoyang Wang, Michael Vasilkovsky, Vladislav Shakhrai, Di Liu, Peiye Zhuang, Sergey Tulyakov, Peter Wonka, Hsin-Ying Lee, James Davis, Jian Wang  <br /> 
+ICCV 2025 <br /> 
+\[[Paper](https://arxiv.org/pdf/2509.10678)\]
+
+**SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface**  <br /> 
 **Jiahao Luo**, Jing Liu, James Davis  <br /> 
-WACV 2025 <br /> 
+WACV 2025 Oral <br /> 
 \[[Paper](https://arxiv.org/pdf/2403.18784.pdf)\]
+
+**Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars**  <br /> 
+Eric Ming Chen, Di Liu, Sizhuo Ma, Michael Vasilkovsky, Bing Zhou, Qiang Gao, Wenzhou Wang, **Jiahao Luo**, Dimitris N. Metaxas, Vincent Sitzmann, Jian Wang  <br /> 
+\[[Paper](https://arxiv.org/pdf/2503.11978)\]
 
 **Disjoint pose and shape for 3D face reconstruction**  <br /> 
 Raja Kumar', **Jiahao Luo'**, Alex Pang, James Davis  <br /> 
@@ -36,7 +46,7 @@ ICCV workshop 2023 <br />
 
 **How much does input data type impact final face model accuracy?**  <br /> 
 **Jiahao Luo**, Fahim Hasan Khan, Issei Mori, James Davis, etc.  <br /> 
-CVPR 2022, Oral presentation <br /> 
+CVPR 2022 Oral <br /> 
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_How_Much_Does_Input_Data_Type_Impact_Final_Face_Model_CVPR_2022_paper.pdf)\]
 
 **How Accurate Is Passive Stereo For 3d Face Reconstruction?**  <br /> 
