@@ -25,7 +25,7 @@ Feed forward animal head blendshapes via human conditioned registration and real
 Selected Publications
 ======
 
-**SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface**  <br /> 
+**T2Bs: Text-to-Character Blendshapes via Video Generation**  <br /> 
 **Jiahao Luo**, Chaoyang Wang, Michael Vasilkovsky, Vladislav Shakhrai, Di Liu, Peiye Zhuang, Sergey Tulyakov, Peter Wonka, Hsin-Ying Lee, James Davis, Jian Wang  <br /> 
 ICCV 2025 <br /> 
 \[[Paper](https://arxiv.org/pdf/2509.10678)\]
