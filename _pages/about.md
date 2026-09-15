@@ -8,19 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at [University of California, Santa Cruz](https://www.ucsc.edu/), advised by professor [James Davis](https://users.soe.ucsc.edu/~davis/), and co-advised by professor [Alex Pang](https://users.soe.ucsc.edu/~pang/). I received my Bachelor degree of Electronic Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications).
+I'm a PhD candidate at [University of California, Santa Cruz](https://www.ucsc.edu/), advised by professor [James Davis](https://users.soe.ucsc.edu/~davis/). 
+I have been a research intern at Snap Research, mentored by [Peter Wonka](https://peterwonka.net/), [Jian Wang](https://jianwang-cmu.github.io/), and [Hsin-Ying Lee](https://hsinyinglee.com/), and at ByteDance, mentored by [Chengjiang Long](https://www.chengjianglong.com/). At Snap, I worked on 3D/4D generation, structured motion and state representations, cross-embodiment control, and generative simulation. At ByteDance, I worked on human-centric world modeling, including expressive human-state representations, feed-forward 3D perception, synthetic data generation, and real-time state estimation from multimodal and partial observations.
+I received my Bachelor degree of Electronic Engineering at [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications).
 
 Research interests
 ======
-Generative 3D/4D for riggable avatars —  text/vision-conditioned 3D/4D generation, semantic meaningful 4D deformation, feed forward deformable Gaussian splatting, and real-time retargeting for animals & humans.
-
-
-Current Research
-======
-
-Feed forward animal head blendshapes via human conditioned registration and real-time retargeting
-
-3D human reconstruction with multiple in-the-wild images
+**3D/4D representation learning**, **generative modeling**, and **human-centric world models**, with particular interests in dynamic state representation, motion modeling, and controllable simulation.
 
 Selected Publications
 ======
