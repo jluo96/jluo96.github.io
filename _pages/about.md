@@ -25,19 +25,34 @@ Feed forward animal head blendshapes via human conditioned registration and real
 Selected Publications
 ======
 
+**RegHead: Non-Humanoid Head Blendshapes via Feed-Forward Registration**  <br /> 
+**Jiahao Luo**, Hao Zhang, Jianqi Chen, Yijie He, Jiaxu Zou, Michael Vasilkovsky, Sergei Korolev, Sergey Tulyakov, Chaoyang Wang, Peter Wonka, James Davis, Jian Wang  <br /> 
+ECCV 2026 <br /> 
+\[[Paper](https://arxiv.org/abs/2607.12206)\]
+
+**RigMo: Unifying Rig and Motion Learning for Generative Animation**  <br /> 
+Hao Zhang, **Jiahao Luo**, Bohui Wan, Yizhou Zhao, Zongrui Li, Michael Vasilkovsky, Chaoyang Wang, Jian Wang, Narendra Ahuja, Bing Zhou  <br /> 
+CVPR 2026 <br /> 
+\[[Paper](https://arxiv.org/abs/2601.06378)\]
+
 **T2Bs: Text-to-Character Blendshapes via Video Generation**  <br /> 
 **Jiahao Luo**, Chaoyang Wang, Michael Vasilkovsky, Vladislav Shakhrai, Di Liu, Peiye Zhuang, Sergey Tulyakov, Peter Wonka, Hsin-Ying Lee, James Davis, Jian Wang  <br /> 
 ICCV 2025 <br /> 
 \[[Paper](https://arxiv.org/pdf/2509.10678)\]
 
+**FFAvatar:Few-Shot, Feedforward, and Generalizable Avatar Reconstruction**  <br /> 
+Thuan Hoang Nguyen, **Jiahao Luo**, Yinyu Nie, Haoyang Wang, George Papandreou, Hao Li, Jian Wang, Gordon Guocheng Qian  <br /> 
+\[[Paper](https://arxiv.org/pdf/2509.10678)\]
+
+**Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars**  <br /> 
+Eric Ming Chen, Di Liu, Sizhuo Ma, Michael Vasilkovsky, Bing Zhou, Qiang Gao, Wenzhou Wang, **Jiahao Luo**, Dimitris N. Metaxas, Vincent Sitzmann, Jian Wang  <br /> 
+WACV 2026 <br /> 
+\[[Paper](https://arxiv.org/pdf/2503.11978)\]
+
 **SplatFace: Gaussian Splat Face Reconstruction Leveraging an Optimizable Surface**  <br /> 
 **Jiahao Luo**, Jing Liu, James Davis  <br /> 
 WACV 2025 Oral <br /> 
 \[[Paper](https://arxiv.org/pdf/2403.18784.pdf)\]
-
-**Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars**  <br /> 
-Eric Ming Chen, Di Liu, Sizhuo Ma, Michael Vasilkovsky, Bing Zhou, Qiang Gao, Wenzhou Wang, **Jiahao Luo**, Dimitris N. Metaxas, Vincent Sitzmann, Jian Wang  <br /> 
-\[[Paper](https://arxiv.org/pdf/2503.11978)\]
 
 **Disjoint pose and shape for 3D face reconstruction**  <br /> 
 Raja Kumar', **Jiahao Luo'**, Alex Pang, James Davis  <br /> 
